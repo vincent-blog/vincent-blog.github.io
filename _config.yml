@@ -18,7 +18,7 @@ locale: en-US
 title: "Vincent"
 description: "Unity of Knowing and Acting"
 baseurl: # the subpath of your site, e.g. "/blog"
-url: "https://blog.lin-sci.cn" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: "http://blog.lin-sci.cn" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: /imgs/logo.png # path of site logo, e.g. "/imgs/logo.png"
 date_format: "%B %-d, %Y"
 read_time: true # reading time estimates, e.g. true
