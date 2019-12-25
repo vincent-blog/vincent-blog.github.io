@@ -1,2 +1,2 @@
-# vincent-blog.github.io
-vincent blog, my english blog
+# blog-luckti.github.io
+My Personal blog website
