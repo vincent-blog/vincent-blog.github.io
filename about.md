@@ -11,15 +11,16 @@ This website is my personal English blog, which is used to record my life and fl
 
 Thanks to the [Jekyll](https://jekyllrb.com/) team's great work, it's really an amazing tool to build website. And thank [Michael Rose](https://github.com/mmistakes/so-simple-theme) for sharing the simple but beatiful theme.
 
-# About Me
-## Biography
-I received M.Sc degree from <a href="http://esaa.zju.edu.cn/">School of Aeronautics and Astronautics</a>, <a href="http://www.zju.edu.cn/english/">Zhejiang University</a>. Previously, I received the B.Sc degree from <a href="http://gxyen.lzu.edu.cn/">College of Civil Engineering and Mechanics</a> in <a href="http://en.lzu.edu.cn/">Lanzhou University</a> in 2014.
+---------
+## About Me
+### Biography
+I received M.Sc degree from <a href="http://esaa.zju.edu.cn/">School of Aeronautics and Astronautics</a>, <a href="http://www.zju.edu.cn/english/">Zhejiang University</a> in 2017. Previously, I received the B.Sc degree from <a href="http://gxyen.lzu.edu.cn/">College of Civil Engineering and Mechanics</a> in <a href="http://en.lzu.edu.cn/">Lanzhou University</a> in 2014.
 
 I have broad research interests in machine learning and nerual network. Recently I am focusing on motion data generation by nerual network accord to the key frame motion, so we can obtain fluent motion data.
 
 I love to work in an opening group where there are different people owning different knoledge graph. We can learn from each other, then discuss or brainstorm together to solve problems.
 
-## Miscellany
+### Miscellany
 <address> 
   Xihu District, Hangzhou <br>
   Zhejiang, China <br>
@@ -27,4 +28,4 @@ I love to work in an opening group where there are different people owning diffe
 </address>
 Hobbies: Badminton, Soccer, Reading, Music, Anime, Movie.
 
--> Last Updated by luckti: May 7th 2019
+-> Last Updated by luckti: {{ "now" | date: "%a, %b %d, %Y" }}
