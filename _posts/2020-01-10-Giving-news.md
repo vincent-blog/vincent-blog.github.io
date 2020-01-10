@@ -6,7 +6,7 @@ tags:
    - English
    - Advanced
 excerpt_separator: <!--more-->
-last_modified_at: 2019-05-10T06:45:17-08:00
+last_modified_at: 2020-01-10T02:05:58-08:00
 ---
 > "You'd better sit down for this¡­" What's the best way to give somebody bad news? Practice letting your classmates down gently.
 <!--more-->
@@ -26,6 +26,8 @@ last_modified_at: 2019-05-10T06:45:17-08:00
    - I’m going to tell this to you straight;
    - There’s no other way to tell you this;
 
+PS: all of the staff / all employees
+
 3. How did they respond?
 
 ---------------------- 
@@ -44,5 +46,10 @@ last_modified_at: 2019-05-10T06:45:17-08:00
 ----------------------
 ### Conversation
 ![image-center]({{ '/imgs/EF-GL/Giving-news-2.png' | absolute_url }}){:.align-center}
+
+----------------------
+### Summary
+
+![image-center]({{ 'imgs/EF-GL/Giving-news-3.png' | absolute_url }}){:.align-center}
 
 
