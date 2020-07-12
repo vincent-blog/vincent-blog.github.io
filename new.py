@@ -131,9 +131,9 @@ def modifyBlogBaseDataByTemplate(blogBaseData):
     blogBaseData['extra'] += '----------------------\n### Questions\n\n\n'
     blogBaseData['extra'] += '----------------------\n### Phrases\n\n\n'
     blogBaseData['extra'] += '----------------------\n### Conversation\n\n'
-    blogBaseData['extra'] += '![image-center]({{ \'imgs/EF-GL/ \' | absolute_url }}){:.align-center}\n\n\n'
+    blogBaseData['extra'] += '![image-center]({{ \'imgs/EF-GL/'+blogBaseData['title'].replace('_','-')+ '-\' | absolute_url }}){:.align-center}\n\n\n'
     blogBaseData['extra'] += '----------------------\n### Summary\n\n'
-    blogBaseData['extra'] += '![image-center]({{ \'imgs/EF-GL/ \' | absolute_url }}){:.align-center}\n\n\n'
+    blogBaseData['extra'] += '![image-center]({{ \'imgs/EF-GL/'+blogBaseData['title'].replace('_','-')+ '-\' | absolute_url }}){:.align-center}\n\n\n'
   elif blogBaseData['templateName'] == 'EF_Notes' or blogBaseData['templateName'] == 'EN': ## EF_Notes
     if not ('EF-Notes' in blogBaseData['categories']):
       blogBaseData['categories'].append('EF-Notes')

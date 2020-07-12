@@ -29,13 +29,17 @@ Indoors or outdoors:
 - Olympic-sized swimming pool
 - tennnis court
 - manicured lawn
-- plasma TV
+- plasma TV -> Apple TV
 - oak-paneled entrancce hall
-- ornate chandelier
+- ornate chandelier 枝形吊灯 
 - granite countertops
 - wood-burning stove
 
 ----------------------
 ### Conversation
-![image-center]({{ 'imgs/EF-GL/Designing-your-dream-home.PNG' | absolute_url }}){:.align-center}
+![image-center]({{ 'imgs/EF-GL/Designing-your-dream-home-1.png' | absolute_url }}){:.align-center}
+
+----------------------
+### Summary
+![image-center]({{ 'imgs/EF-GL/Designing-your-dream-home-2.png' | absolute_url }}){:.align-center}
 
