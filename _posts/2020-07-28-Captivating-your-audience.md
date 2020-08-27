@@ -6,7 +6,7 @@ tags:
   - English
   - Advanced
 excerpt_separator: <!--more-->
-last_modified_at: 2020-01-13T07:33:05-08:00
+last_modified_at: 2020-07-27T21:45:29-08:00
 ---
 > Make a speech to motivate your classmates to study more. Discover some tips to make your presentation more engaging.
 <!--more-->
@@ -18,7 +18,14 @@ last_modified_at: 2020-01-13T07:33:05-08:00
 
 ----------------------
 ### Phrases
+- **parallel sentence structure**
+- **repetition**
+- **rhetorical question**
+- **simile**
+- **metaphor**: She is a tiger, too easy geting angry.
+- **idioms**
 
+![image-center]({{ 'imgs/EF-GL/Captivating-your-audience-0.1.png' | absolute_url }}){:.align-center}
 
 ----------------------
 ### Conversation
@@ -30,5 +37,3 @@ last_modified_at: 2020-01-13T07:33:05-08:00
 ### Summary
 
 ![image-center]({{ 'imgs/EF-GL/Captivating-your-audience-2.png' | absolute_url }}){:.align-center}
-
-

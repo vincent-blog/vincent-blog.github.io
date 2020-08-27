@@ -6,7 +6,7 @@ tags:
   - English
   - Advanced
 excerpt_separator: <!--more-->
-last_modified_at: 2019-12-02T10:54:07-08:00
+last_modified_at: 2020-08-03T21:43:59-08:00
 ---
 > What makes a story interesting? Learn some tips and techniques that will dramatically improve your English skill.
  -> You will be able to use elements of storytelling to create a short story.
@@ -25,6 +25,7 @@ An anecdote -> a short / person story
 
 ----------------------
 ### Techniques
+![image-center]({{ '/imgs/EF-GL/Telling-anecdote-1.png' | absolute_url }}){:.align-center}
 - varied intonation
 - descriptive adjective
 - dramatic pauses
@@ -37,3 +38,6 @@ Comparing the two stories:
 ### Conversation
 ![image-center]({{ '/imgs/EF-GL/Telling-anecdote.jpg' | absolute_url }}){:.align-center}
 
+
+### Summary
+![image-center]({{ '/imgs/EF-GL/Telling-anecdote-4.png' | absolute_url }}){:.align-center}

@@ -20,7 +20,8 @@ last_modified_at: 2020-01-02T22:04:03-08:00
    - 
 
 2. Tell the class about something which has been in the news a lot recently in your country.
-
+   - infected diseases
+   - [Coronvirus COVID-19](https://news.google.com/covid19/map?hl=en-US&mid=/m/02j71&gl=US&ceid=US:en)
 
 ---------------------- 
 ### Phrases

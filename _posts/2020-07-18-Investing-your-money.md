@@ -40,8 +40,8 @@ idiomatic expressions:
 ![image-center]({{ 'imgs/EF-GL/Investing-your-money-0.png' | absolute_url }}){:.align-center}
 
 ----------------------
-### Conversation
 
+### Conversation
 ![image-center]({{ 'imgs/EF-GL/Investing-your-money-1.png' | absolute_url }}){:.align-center}
 
 

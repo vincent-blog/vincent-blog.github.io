@@ -6,15 +6,24 @@ tags:
    - English
    - Advanced
 excerpt_separator: <!--more-->
-last_modified_at: 2019-12-01T04:46:13-08:00
+last_modified_at: 2020-08-02T21:34:23-08:00
 ---
 > These days, anyone can make a movie and share it on the internet. But if you were a hollywood director with a big budget, what kind of movie would you make? Which actors would you cast?
 <!--more-->
+
 ----------------------
+### Questions
+1. Would you like to star in a movie?
+   ![image-center]({{ '/imgs/EF-GL/Making-a-movie-0.png' | absolute_url }}){:.align-center}
+2. Describe your favorite actor. <-> Now describe your least favorite actor.
+   ![image-center]({{ '/imgs/EF-GL/Making-a-movie-1.png' | absolute_url }}){:.align-center}
+
+
+---
 ### Vocabulary
 1. Positive
    - sophisticated
-   - versatile
+   - versatile -> able to adapt or be adapted to many different functions or activities
    - glamorous
    - superb
    - ellegant
@@ -29,10 +38,7 @@ last_modified_at: 2019-12-01T04:46:13-08:00
    - unexceptional
    - absurb
 
-----------------------
-### Questions
-1. Would you like to star in a movie?
-2. Describe your favorite actor. <-> Now describe your least favorite actor.
+![image-center]({{ '/imgs/EF-GL/Making-a-movie-2.png' | absolute_url }}){:.align-center}
 
 ----------------------
 ### Phrases
@@ -44,7 +50,12 @@ last_modified_at: 2019-12-01T04:46:13-08:00
 - Best soundtrack
 - ...
 
+![image-center]({{ '/imgs/EF-GL/Making-a-movie-2.1.png' | absolute_url }}){:.align-center}
+
 ----------------------
 ### Conversation
 ![image-center]({{ '/imgs/EF-GL/Making-a-movie-3.jpg' | absolute_url }}){:.align-center}
 
+----------------------
+### Summary
+![image-center]({{ '/imgs/EF-GL/Making-a-movie-4.png' | absolute_url }}){:.align-center}
