@@ -129,11 +129,13 @@ def modifyBlogBaseDataByTemplate(blogBaseData):
     ## extra content
     blogBaseData['extra'] += '> \n<!--more-->\n\n'
     blogBaseData['extra'] += '----------------------\n### Questions\n\n\n'
+    blogBaseData['extra'] += '![image-center]({{ \'imgs/EF-GL/'+blogBaseData['title'].replace('_','-')+ '-0.png\' | absolute_url }}){:.align-center}\n\n\n'
     blogBaseData['extra'] += '----------------------\n### Phrases\n\n\n'
+    blogBaseData['extra'] += '![image-center]({{ \'imgs/EF-GL/'+blogBaseData['title'].replace('_','-')+ '-1.png\' | absolute_url }}){:.align-center}\n\n\n'
     blogBaseData['extra'] += '----------------------\n### Conversation\n\n'
-    blogBaseData['extra'] += '![image-center]({{ \'imgs/EF-GL/'+blogBaseData['title'].replace('_','-')+ '-\' | absolute_url }}){:.align-center}\n\n\n'
+    blogBaseData['extra'] += '![image-center]({{ \'imgs/EF-GL/'+blogBaseData['title'].replace('_','-')+ '-2.png\' | absolute_url }}){:.align-center}\n\n\n'
     blogBaseData['extra'] += '----------------------\n### Summary\n\n'
-    blogBaseData['extra'] += '![image-center]({{ \'imgs/EF-GL/'+blogBaseData['title'].replace('_','-')+ '-\' | absolute_url }}){:.align-center}\n\n\n'
+    blogBaseData['extra'] += '![image-center]({{ \'imgs/EF-GL/'+blogBaseData['title'].replace('_','-')+ '-3.png\' | absolute_url }}){:.align-center}\n\n\n'
   elif blogBaseData['templateName'] == 'EF_Notes' or blogBaseData['templateName'] == 'EN': ## EF_Notes
     if not ('EF-Notes' in blogBaseData['categories']):
       blogBaseData['categories'].append('EF-Notes')
@@ -155,6 +157,11 @@ def modifyBlogBaseDataByTemplate(blogBaseData):
     blogBaseData['extra'] += '> ### Is yesterday a valuable day for you?\n<!--more-->\n\n'
     blogBaseData['extra'] += '\n### What had you done yesterday?\n\n* \n'
     blogBaseData['extra'] += '\n### What will you do today?\n\n- \n'
+  elif blogBaseData['templateName'] == 'Google-News' or blogBaseData['templateName'] == 'GN': ## Google-News
+    if not ('Notes' in blogBaseData['categories']):
+      blogBaseData['categories'].append('Google-News')
+    if not ('Notes' in blogBaseData['tags']):
+      blogBaseData['tags'].append('Google-News')
   else:
     print("InputErro: Undefined template name")
     print("please input one of following template names(the name abbreviation in brackets):")
@@ -162,6 +169,7 @@ def modifyBlogBaseDataByTemplate(blogBaseData):
     print("  EF-Notes(EN)")
     print("  Diary(D)")
     print("  Notes(N)")
+    print("  Google-News(GN)")
     return
 
 
@@ -196,6 +204,8 @@ def main(argv):
   
   dateText=GetDateText()
   postpath='./_posts/'
+  if blogBaseData['templateName'] == 'Google-News' or blogBaseData['templateName'] == 'GN': ## Google-News
+    blogBaseData['title'] = "Google_News_" + blogBaseData['title']
   filepath=postpath+dateText+'-'+blogBaseData['title'].replace('_','-')+'.md'
   if os.path.exists(filepath):
     print("The file already exists, do you want to replace(Y/n)")
